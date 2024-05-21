@@ -1,11 +1,9 @@
-<script setup>
-import Pokemons from './components/Pokemons.vue'
-</script>
-
 <template>
-  <Pokemons />
+  <div>
+    <Pokemons />
+  </div>
 </template>
 
-<style scoped>
-
-</style>
+<script setup>
+import Pokemons from './components/Pokemons.vue';
+</script>
