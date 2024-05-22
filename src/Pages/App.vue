@@ -5,9 +5,6 @@ import Pokemons from '@/components/Pokemons.vue';
 
 <template>
   <div>
-    <PokemonCard />
-  </div>
-  <div>
     <Pokemons />
   </div>
 </template>
